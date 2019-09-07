@@ -1,0 +1,9 @@
+npm install hexo-cli -g   
+hexo init #初始化网站   
+npm install   
+hexo g #生成或 hexo generate   
+hexo s #启动本地服务器
+hexo new "文章名" #新建文章
+hexo new page "页面名" #新建页面   
+hexo clean
+git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia 
